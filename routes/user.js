@@ -1,6 +1,6 @@
 const express = require('express');
 
-const router = express.Router();
+const router = express.Router(); // express router
 
 const users = ["Kamran", "Wajid", "Ijaz", "Waleed"];
 
